@@ -1,0 +1,24 @@
+body{
+
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    position: static;
+    ;
+}
+
+h1{
+
+    color: rgb(37, 37, 26);
+    font-size: 3em;
+    text-shadow: 3px 3px 3px rgb(235, 121, 178) ;
+    
+}
+
+p{
+
+    font-size: 2em;
+    font-style: italic;
+    color: rgb(235, 121, 178);
+
+
+}
