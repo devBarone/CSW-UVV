@@ -1,0 +1,53 @@
+body{
+
+    text-align: center;
+    background-color: rgb(54, 48, 48);
+    text-shadow: #333;
+    font-weight: bold;
+    
+}
+
+.img2{
+
+    height: 70px;
+
+}
+
+h2{
+font-size: 2.5em;
+color: rgb(221, 221, 221);
+
+}
+
+#container{
+
+    margin-top: 150px;
+
+}
+
+#tamanholi{
+
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+#tamanholi2{
+
+    width: 200px;
+   
+    list-style: decimal;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+li{
+    margin-top: 50px;
+    font-size: 1.5em;
+    border: 3px rgb(128, 125, 125) solid;
+    background-color: white;
+    
+}
