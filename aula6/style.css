@@ -1,0 +1,36 @@
+body{
+
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    position: static;
+    
+}
+
+h1{
+
+    color: rgb(37, 37, 26);
+    font-size: 3em;
+    text-shadow: 2px 2px 2px rgb(235, 121, 178) ;
+    
+}
+
+h2{
+    color: rgb(37, 37, 26);
+    font-size: 2.5em;
+    text-shadow: 2px 2px 2px rgb(235, 121,178);
+    margin: 10px;
+}
+p{
+
+    font-size: 2em;
+    font-style: italic;
+    color: rgb(235, 121, 178);
+
+
+}
+
+address{
+
+    color: rgb(66, 66, 52);
+    font-weight: bold;
+}
