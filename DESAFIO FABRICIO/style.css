@@ -1,0 +1,35 @@
+body{
+
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+
+}
+
+h1{
+
+    color: rgb(30, 115, 184);
+
+}
+
+p{
+
+    font-size: 1.2em;
+    font-weight: bold;
+    color: brown;
+    
+
+}
+
+
+
+
+li{
+    color: brown;
+    list-style: lower-alpha;
+    font-weight: bold;
+    
+}
+
