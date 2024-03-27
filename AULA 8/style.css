@@ -1,0 +1,49 @@
+body{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.topbar{
+
+    font-size: 16px;
+    background-color: #333;
+    padding: 13px;
+    text-align: center;
+    border-bottom: solid 5px orange;
+    color: white;
+}
+
+.container{
+
+    max-width: 660px;
+    margin: auto;
+    font-size: 1.5em;
+
+}
+
+.abelha{
+
+margin-left: auto;
+margin-right: auto;
+
+width: 35%;
+
+}
+
+.fotos{
+
+text-align: center;
+font-size: 1.5em;
+font-family:'Times New Roman', Times, serif ;
+}
+
+a{
+
+border: solid 10px orange;
+background-color: orange;
+text-decoration: none;
+color: white;
+
+}
