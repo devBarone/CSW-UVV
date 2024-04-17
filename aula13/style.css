@@ -1,0 +1,45 @@
+body{
+
+    text-align: center;
+    padding: 0;
+    margin: 0;
+
+    background-color: #F7CAC9;
+}
+
+h1,h2{
+
+    font-size: 55px;
+    color: rgb(255, 254, 254);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.topbar{
+padding: 15px;
+height: 80px;
+background-color: #F7CAC9;
+
+}
+
+.uvv{
+
+    height: 100px;
+    width: 150px;
+}
+
+.main{
+
+
+    max-width: 600px;
+    margin: auto;
+}
+
+p{
+
+font-size: 1.3em;
+font-weight: bold;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+
+}
